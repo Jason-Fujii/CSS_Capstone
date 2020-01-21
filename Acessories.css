@@ -1,0 +1,31 @@
+body
+{
+  background-color: #0A3C78;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  font-family: 'Lato', sans-serif;
+  border: 50px solid #146edb;
+  border-top: 0px;
+
+}
+
+
+table
+{
+  margin: auto;
+}
+
+.lorem
+{
+
+  width: 80%;
+  margin: auto;
+}
+
+.form
+{
+
+  width: 80%;
+  margin: auto;
+}
